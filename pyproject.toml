@@ -18,4 +18,5 @@ dependencies = [
     "markdownify>=0.11.0",
     "python-dotenv==1.0.1",
     "litellm>=1.15.8",
+    "arxiv>=2.2.0",
 ]
